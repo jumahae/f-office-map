@@ -905,7 +905,7 @@
                         {
                          "name":"closeSound",
                          "type":"string",
-                         "value":"ressources\/sounds\/closing_door_2.mp3"
+                         "value":"sounds\/closing_door_2.mp3"
                         }, 
                         {
                          "name":"default",
@@ -925,7 +925,7 @@
                         {
                          "name":"openSound",
                          "type":"string",
-                         "value":"ressources\/sounds\/opening_door_2.mp3"
+                         "value":"sounds\/opening_door_2.mp3"
                         }, 
                         {
                          "name":"persist",
@@ -953,7 +953,7 @@
                         {
                          "name":"closeSound",
                          "type":"string",
-                         "value":"ressources\/sounds\/closing_door_2.mp3"
+                         "value":"sounds\/closing_door_2.mp3"
                         }, 
                         {
                          "name":"default",
@@ -973,7 +973,7 @@
                         {
                          "name":"openSound",
                          "type":"string",
-                         "value":"ressources\/sounds\/opening_door_2.mp3"
+                         "value":"sounds\/opening_door_2.mp3"
                         }, 
                         {
                          "name":"persist",
